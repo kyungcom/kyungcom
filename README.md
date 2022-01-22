@@ -2,7 +2,8 @@
 <img src="https://img.shields.io/github/followers/kyungcom?style=social">
 
 # Introduce
-<h1> **:wave: Hi there!I wanna be a backend developer.** </h1>
+<h2> <em> :wave: Hi there!I wanna be a backend developer. </em></h2>
+
 - I'm currently learning Spring and NodeJS. :book:
 - Make an effort :muscle:
 
