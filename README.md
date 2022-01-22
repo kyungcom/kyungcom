@@ -37,7 +37,7 @@
 
 <h3 align="center">:heart: Contact :heart:</h3>
 <p align = "center">
-<a href="kyungcom.dev" target="_blank"><img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=Blogger&logoColor=white"/></a>&nbsp
+<a href="https://www.kyungcom.dev" target="_blank"><img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=Blogger&logoColor=white"/></a>&nbsp
 <a href="mailto:qrdlsgh1234@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=GMAIL&logoColor=white"/></a>
 </p>
 
