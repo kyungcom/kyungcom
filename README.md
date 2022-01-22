@@ -2,10 +2,10 @@
 <img src="https://img.shields.io/github/followers/kyungcom?style=social">
 
 # Introduce
-<h2> <em> :wave: Hi there!I wanna be a backend developer. </em></h2>
+<h3> <em> :wave: Hi there!I wanna be a backend developer. </em></h3>
 
-- I'm currently learning Spring and NodeJS. :book:
-- Make an effort :muscle:
+- ### I'm currently learning Spring and NodeJS. :book:
+- ### Make an effort :muscle:
 
 
 <br><br>
