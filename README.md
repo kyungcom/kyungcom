@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/github/followers/kyungcom?style=social">
 
 # Introduce
-:wave: Hi there!I wanna be a backend developer. 
+<h1> **:wave: Hi there!I wanna be a backend developer.** </h1>
 - I'm currently learning Spring and NodeJS. :book:
 - Make an effort :muscle:
 
@@ -39,7 +39,12 @@
 <a href="mailto:qrdlsgh1234@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=GMAIL&logoColor=white"/></a>
 </p>
 
+<br><br>
+<div align=center>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungcom&show_icons=true&theme=radical)
+
+ </div>
 
 <!--
 **kyungcom/kyungcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
